@@ -1,2 +1,2 @@
 # Alura-scratch
-inclusão dos participantes do projeto e nome do professor 
+Inclusão dos participantes do projeto e nome do professor 
